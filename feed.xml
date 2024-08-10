@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>test</title>
-    <link href="https://yasinc2.github.io/am5/blog/feed.xml" rel="self" />
-    <link href="https://yasinc2.github.io/am5/blog" />
+    <link href="https://yasinc2.github.io/am5/feed.xml" rel="self" />
+    <link href="https://yasinc2.github.io/am5" />
     <updated>2024-08-10T16:19:36+03:30</updated>
     <author>
         <name>me</name>
     </author>
-    <id>https://yasinc2.github.io/am5/blog</id>
+    <id>https://yasinc2.github.io/am5</id>
 
     <entry>
         <title>Second Post</title>
         <author>
             <name>me</name>
         </author>
-        <link href="https://yasinc2.github.io/am5/blog/first-post-2.html"/>
-        <id>https://yasinc2.github.io/am5/blog/first-post-2.html</id>
-        <media:content url="https://yasinc2.github.io/am5/blog/media/posts/2/pexels-ron-lach-7848992.jpg" medium="image" />
+        <link href="https://yasinc2.github.io/am5/first-post-2.html"/>
+        <id>https://yasinc2.github.io/am5/first-post-2.html</id>
+        <media:content url="https://yasinc2.github.io/am5/media/posts/2/pexels-ron-lach-7848992.jpg" medium="image" />
 
         <updated>2024-08-10T16:19:22+03:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://yasinc2.github.io/am5/blog/media/posts/2/pexels-ron-lach-7848992.jpg" alt="" />
+                        <img src="https://yasinc2.github.io/am5/media/posts/2/pexels-ron-lach-7848992.jpg" alt="" />
                     Hello World 2 Lorem ipsum dolor sit amet consectetur adipiscing elit volutpat&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://yasinc2.github.io/am5/blog/media/posts/2/pexels-ron-lach-7848992.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://yasinc2.github.io/am5/media/posts/2/pexels-ron-lach-7848992.jpg" class="type:primaryImage" alt="" /></p>
                 
     <h2 id="hello-world-2">
       Hello World 2
@@ -38,7 +38,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://yasinc2.github.io/am5/blog/media/posts/2/pexels-anni-roenkae-2860807.jpg" height="5184" width="3888" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://yasinc2.github.io/am5/blog/media/posts/2/responsive/pexels-anni-roenkae-2860807-xs.jpg 320w ,https://yasinc2.github.io/am5/blog/media/posts/2/responsive/pexels-anni-roenkae-2860807-sm.jpg 480w ,https://yasinc2.github.io/am5/blog/media/posts/2/responsive/pexels-anni-roenkae-2860807-md.jpg 768w ,https://yasinc2.github.io/am5/blog/media/posts/2/responsive/pexels-anni-roenkae-2860807-xl.jpg 1024w">
+      <img loading="lazy" src="https://yasinc2.github.io/am5/media/posts/2/pexels-anni-roenkae-2860807.jpg" height="5184" width="3888" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://yasinc2.github.io/am5/media/posts/2/responsive/pexels-anni-roenkae-2860807-xs.jpg 320w ,https://yasinc2.github.io/am5/media/posts/2/responsive/pexels-anni-roenkae-2860807-sm.jpg 480w ,https://yasinc2.github.io/am5/media/posts/2/responsive/pexels-anni-roenkae-2860807-md.jpg 768w ,https://yasinc2.github.io/am5/media/posts/2/responsive/pexels-anni-roenkae-2860807-xl.jpg 1024w">
       
     </figure>
             ]]>
@@ -49,20 +49,20 @@
         <author>
             <name>me</name>
         </author>
-        <link href="https://yasinc2.github.io/am5/blog/first-post.html"/>
-        <id>https://yasinc2.github.io/am5/blog/first-post.html</id>
-        <media:content url="https://yasinc2.github.io/am5/blog/media/posts/1/pexels-ron-lach-7848992.jpg" medium="image" />
+        <link href="https://yasinc2.github.io/am5/first-post.html"/>
+        <id>https://yasinc2.github.io/am5/first-post.html</id>
+        <media:content url="https://yasinc2.github.io/am5/media/posts/1/pexels-ron-lach-7848992.jpg" medium="image" />
 
         <updated>2024-08-10T15:57:48+03:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://yasinc2.github.io/am5/blog/media/posts/1/pexels-ron-lach-7848992.jpg" alt="" />
+                        <img src="https://yasinc2.github.io/am5/media/posts/1/pexels-ron-lach-7848992.jpg" alt="" />
                     Hello World Lorem ipsum dolor sit amet consectetur adipiscing elit volutpat eleifend&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://yasinc2.github.io/am5/blog/media/posts/1/pexels-ron-lach-7848992.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://yasinc2.github.io/am5/media/posts/1/pexels-ron-lach-7848992.jpg" class="type:primaryImage" alt="" /></p>
                 
     <h2 id="hello-world">
       Hello World
@@ -73,7 +73,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://yasinc2.github.io/am5/blog/media/posts/1/pexels-anni-roenkae-2860807.jpg" height="5184" width="3888" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://yasinc2.github.io/am5/blog/media/posts/1/responsive/pexels-anni-roenkae-2860807-xs.jpg 320w ,https://yasinc2.github.io/am5/blog/media/posts/1/responsive/pexels-anni-roenkae-2860807-sm.jpg 480w ,https://yasinc2.github.io/am5/blog/media/posts/1/responsive/pexels-anni-roenkae-2860807-md.jpg 768w ,https://yasinc2.github.io/am5/blog/media/posts/1/responsive/pexels-anni-roenkae-2860807-xl.jpg 1024w">
+      <img loading="lazy" src="https://yasinc2.github.io/am5/media/posts/1/pexels-anni-roenkae-2860807.jpg" height="5184" width="3888" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://yasinc2.github.io/am5/media/posts/1/responsive/pexels-anni-roenkae-2860807-xs.jpg 320w ,https://yasinc2.github.io/am5/media/posts/1/responsive/pexels-anni-roenkae-2860807-sm.jpg 480w ,https://yasinc2.github.io/am5/media/posts/1/responsive/pexels-anni-roenkae-2860807-md.jpg 768w ,https://yasinc2.github.io/am5/media/posts/1/responsive/pexels-anni-roenkae-2860807-xl.jpg 1024w">
       
     </figure>
             ]]>
