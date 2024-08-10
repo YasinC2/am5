@@ -1,0 +1,43 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "test",
+    "description": "",
+    "home_page_url": "https://yasinc2.github.io/am5/blog",
+    "feed_url": "https://yasinc2.github.io/am5/blog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "me"
+    },
+    "items": [
+        {
+            "id": "https://yasinc2.github.io/am5/blog/first-post-2.html",
+            "url": "https://yasinc2.github.io/am5/blog/first-post-2.html",
+            "title": "Second Post",
+            "summary": "Hello World 2 Lorem ipsum dolor sit amet consectetur adipiscing elit volutpat&hellip;",
+            "content_html": "\n    <h2 id=\"hello-world-2\">\n      Hello World 2\n    </h2>\n\n  <p>\n    Lorem ipsum dolor sit amet consectetur adipiscing elit volutpat eleifend per orci pharetra donec elementum, vivamus ullamcorper lobortis nisi id arcu suscipit ad montes torquent eros suspendisse. Pharetra fringilla tempor lacinia torquent dis maecenas mattis, venenatis ad scelerisque nostra parturient porttitor, congue nam hac sociosqu vitae facilisi. Ultricies sociosqu pellentesque dignissim justo curabitur a non nulla, rhoncus curae elementum quis in vehicula senectus porttitor, tincidunt velit lacinia interdum fusce natoque nunc.\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://yasinc2.github.io/am5/blog/media/posts/2/pexels-anni-roenkae-2860807.jpg\" height=\"5184\" width=\"3888\" alt=\"\"  sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://yasinc2.github.io/am5/blog/media/posts/2/responsive/pexels-anni-roenkae-2860807-xs.jpg 320w ,https://yasinc2.github.io/am5/blog/media/posts/2/responsive/pexels-anni-roenkae-2860807-sm.jpg 480w ,https://yasinc2.github.io/am5/blog/media/posts/2/responsive/pexels-anni-roenkae-2860807-md.jpg 768w ,https://yasinc2.github.io/am5/blog/media/posts/2/responsive/pexels-anni-roenkae-2860807-xl.jpg 1024w\">\n      \n    </figure>",
+            "image": "https://yasinc2.github.io/am5/blog/media/posts/2/pexels-ron-lach-7848992.jpg",
+            "author": {
+                "name": "me"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-08-10T16:19:22+03:30",
+            "date_modified": "2024-08-10T16:19:36+03:30"
+        },
+        {
+            "id": "https://yasinc2.github.io/am5/blog/first-post.html",
+            "url": "https://yasinc2.github.io/am5/blog/first-post.html",
+            "title": "First Post",
+            "summary": "Hello World Lorem ipsum dolor sit amet consectetur adipiscing elit volutpat eleifend&hellip;",
+            "content_html": "\n    <h2 id=\"hello-world\">\n      Hello World\n    </h2>\n\n  <p>\n    Lorem ipsum dolor sit amet consectetur adipiscing elit volutpat eleifend per orci pharetra donec elementum, vivamus ullamcorper lobortis nisi id arcu suscipit ad montes torquent eros suspendisse. Pharetra fringilla tempor lacinia torquent dis maecenas mattis, venenatis ad scelerisque nostra parturient porttitor, congue nam hac sociosqu vitae facilisi. Ultricies sociosqu pellentesque dignissim justo curabitur a non nulla, rhoncus curae elementum quis in vehicula senectus porttitor, tincidunt velit lacinia interdum fusce natoque nunc.\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://yasinc2.github.io/am5/blog/media/posts/1/pexels-anni-roenkae-2860807.jpg\" height=\"5184\" width=\"3888\" alt=\"\"  sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://yasinc2.github.io/am5/blog/media/posts/1/responsive/pexels-anni-roenkae-2860807-xs.jpg 320w ,https://yasinc2.github.io/am5/blog/media/posts/1/responsive/pexels-anni-roenkae-2860807-sm.jpg 480w ,https://yasinc2.github.io/am5/blog/media/posts/1/responsive/pexels-anni-roenkae-2860807-md.jpg 768w ,https://yasinc2.github.io/am5/blog/media/posts/1/responsive/pexels-anni-roenkae-2860807-xl.jpg 1024w\">\n      \n    </figure>",
+            "image": "https://yasinc2.github.io/am5/blog/media/posts/1/pexels-ron-lach-7848992.jpg",
+            "author": {
+                "name": "me"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-08-10T15:57:48+03:30",
+            "date_modified": "2024-08-10T15:57:48+03:30"
+        }
+    ]
+}
