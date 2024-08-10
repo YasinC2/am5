@@ -62,18 +62,19 @@
     "versionPublish": "5.9.18",
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": "a7uv10wfv9",
+    "mbrsiteDomain": "ph5bos3jwk",
     "usedWebp": false,
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
+    "robotsSwitcher": true,
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "https://yasinc2.github.io/am5/",
     "cookiesAlert": false,
     "gdpr": false,
-    "witsec-white-label": false,
+    "witsec-white-label": true,
     "witsec-jquery": false,
     "witsec-search": false,
-    "witsec-mailform": false
+    "witsec-mailform": false,
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
   },
   "pages": {
     "index.html": {
