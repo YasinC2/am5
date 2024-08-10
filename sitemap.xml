@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://yasinc2.github.io/am5/mag/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://yasinc2.github.io/am5/mag/blof/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://yasinc2.github.io/am5/mag/</loc>
+<loc>https://yasinc2.github.io/am5/mag/blof/</loc>
 </url>
 <url>
-<loc>https://yasinc2.github.io/am5/mag/first-post-2.html</loc>
+<loc>https://yasinc2.github.io/am5/mag/blof/first-post-2.html</loc>
 <lastmod>2024-08-10T16:19:36+03:30</lastmod>
 <image:image>
-<image:loc>https://yasinc2.github.io/am5/mag/media/posts/2/pexels-ron-lach-7848992.jpg</image:loc>
+<image:loc>https://yasinc2.github.io/am5/mag/blof/media/posts/2/pexels-ron-lach-7848992.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://yasinc2.github.io/am5/mag/media/posts/2/pexels-anni-roenkae-2860807.jpg</image:loc>
+<image:loc>https://yasinc2.github.io/am5/mag/blof/media/posts/2/pexels-anni-roenkae-2860807.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://yasinc2.github.io/am5/mag/first-post.html</loc>
+<loc>https://yasinc2.github.io/am5/mag/blof/first-post.html</loc>
 <lastmod>2024-08-10T15:57:48+03:30</lastmod>
 <image:image>
-<image:loc>https://yasinc2.github.io/am5/mag/media/posts/1/pexels-ron-lach-7848992.jpg</image:loc>
+<image:loc>https://yasinc2.github.io/am5/mag/blof/media/posts/1/pexels-ron-lach-7848992.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://yasinc2.github.io/am5/mag/media/posts/1/pexels-anni-roenkae-2860807.jpg</image:loc>
+<image:loc>https://yasinc2.github.io/am5/mag/blof/media/posts/1/pexels-anni-roenkae-2860807.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
